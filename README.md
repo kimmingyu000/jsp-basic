@@ -22,6 +22,7 @@ docker run -p 8080:8080 my-jsp-server
 
 ```bash
 docker build -t my-jsp-server .
+
 ```
 
 ### 2-b. 새로고침 하면 되는 Tomcat 서버 실행하기
